@@ -1,0 +1,51 @@
+{
+    "posts": [
+        {
+            "id": "e61343c5-69fc-4c43-929e-823fdf63b5d8",
+            "documentId": "b60054ef-4167-4d81-a606-f0b400f4c00e",
+            "content": "This document is related to the credit scores of the customer",
+            "createdBy": "bank_user",
+            "createdTime": "2023-05-23T08:41:24.790543300"
+        },
+        {
+            "id": "e61343c5-69fc-4c43-929e-823fdf63b5d9",
+            "documentId": "b60054ef-4167-4d81-a606-f0b400f4c00e",
+            "content": "This document needs to go through the approval process",
+            "createdBy": "bank_user",
+            "createdTime": "2023-05-23T08:44:36.790543300"
+        }
+    ],
+    "comments": [
+        {
+            "id": "bcba3cd2-b670-4a52-b41f-c290bb6d819f",
+            "postId": "e61343c5-69fc-4c43-929e-823fdf63b5d8",
+            "content": "Verified that the credit scores are good, need to assign an internal score out of 10",
+            "createdBy": "some_user",
+            "createdTime": "2023-05-23T08:49:05.760115600"
+        },
+        {
+            "id": "bcba3cd2-b670-4a52-b41f-c290bb6d819g",
+            "postId": "e61343c5-69fc-4c43-929e-823fdf63b5d8",
+            "content": "Assigning internal score 8.5/10",
+            "createdBy": "some_user",
+            "createdTime": "2023-05-23T08:51:12.760115600"
+        },
+        {
+            "id": "bcba3cd2-b670-4a52-b41f-c290bb6d819h",
+            "postId": "e61343c5-69fc-4c43-929e-823fdf63b5d9",
+            "content": "Approval has started",
+            "createdBy": "some_user",
+            "createdTime": "2023-05-23T08:46:21.760115600"
+        },
+        {
+            "id": "bcba3cd2-b670-4a52-b41f-c290bb6d819k",
+            "postId": "e61343c5-69fc-4c43-929e-823fdf63b5d9",
+            "content": "Approval process complete: Approved",
+            "createdBy": "some_user",
+            "createdTime": "2023-05-23T08:52:58.760115600"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
